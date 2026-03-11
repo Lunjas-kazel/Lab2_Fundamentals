@@ -1,1 +1,1 @@
-# Lab2_Fundamentals
+# Lab2_Fun
